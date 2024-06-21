@@ -1,0 +1,8 @@
+*contraseña= si restableces la contraseña por defecto ees el ruc
+*agregar dominios en los host en == C:\Windows\System32\drivers\etc 
+	1.entrar en propiedades del archivo hosts
+	2.desabilitar solo lectura
+	3. entrar en seguridad, selecionar usuario  franklin y boton editar
+	4. select franklin y ahbilitar todos los permisos, aplicar y guardas
+	5.habrir hosts con txt y agregrar otro dominio al ultimo
+	6. devulevestak como estuvo el archivo hosts

@@ -1,0 +1,1 @@
+UPDATE clients SET number='20607951811' WHERE id=1
